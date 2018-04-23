@@ -5,13 +5,13 @@
 	printf("Hello, World!");
 	return 0;
 	-----------------------------------------------
-	This file is a template.
+	"filename.c" Oscar Ibrahim Banuelos
 	-----------------------------------------------
 
 */ 
 
-	int main()
-	}
-		printf("Concrete contains gravel and cement.\n");
+	main()
+	{
+		printf("Template C file.\n");
 	}
 
